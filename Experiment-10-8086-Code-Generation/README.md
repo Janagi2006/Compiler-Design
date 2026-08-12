@@ -48,6 +48,9 @@ x = t4
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 ================ 8086 CODE GENERATOR ================
 Input Three-Address Code (5 lines):

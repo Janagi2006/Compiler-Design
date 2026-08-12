@@ -1,0 +1,15 @@
+IMPLEMENTATION OF TYPE CHECKING
+
+SYMBOL TABLE DECLARATIONS:
+  int        a;
+  int        b;
+  int        c;
+  float      d;
+
+SEMANTIC ANALYZER (TYPE CHECKING):
+
+Test Case 1:
+There is no type mismatch in the expression a = b * c;
+
+Test Case 2:
+Type Mismatch between operands 'b' (int) and 'd' (float) in 'a = b + d;'

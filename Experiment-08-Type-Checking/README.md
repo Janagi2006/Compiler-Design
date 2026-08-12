@@ -45,6 +45,9 @@ a = b + d;
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 IMPLEMENTATION OF TYPE CHECKING
 

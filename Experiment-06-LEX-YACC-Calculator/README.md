@@ -56,6 +56,9 @@ gcc cal.tab.c lex.yy.c -o calc -lm
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 Enter calculation expression(s):
 Answer: 4

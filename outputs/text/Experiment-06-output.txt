@@ -1,0 +1,12 @@
+Enter calculation expression(s):
+2+2
+Answer: 4
+
+(10+5)*4
+Answer: 60
+
+100/4-5
+Answer: 20
+
+3.5*2.5
+Answer: 8.75

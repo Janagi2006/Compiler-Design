@@ -64,6 +64,9 @@ switch (ch) {
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 Enter C control structure syntax:
 Valid control structure syntax.

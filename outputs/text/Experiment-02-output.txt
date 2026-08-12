@@ -1,0 +1,53 @@
+========== LEXICAL ANALYZER TOKENS ==========
+<HEADER_FILE, #include <stdio.h>>
+<KEYWORD, int>
+<IDENTIFIER, calculate>
+<DELIMITER, (>
+<KEYWORD, int>
+<IDENTIFIER, a>
+<DELIMITER, ,>
+<KEYWORD, int>
+<IDENTIFIER, b>
+<DELIMITER, )>
+<DELIMITER, {>
+<COMMENT, // Perform multiplication>
+<KEYWORD, int>
+<IDENTIFIER, result>
+<OPERATOR, =>
+<IDENTIFIER, a>
+<OPERATOR, *>
+<IDENTIFIER, b>
+<OPERATOR, +>
+<NUMBER, 10>
+<DELIMITER, ;>
+<KEYWORD, return>
+<IDENTIFIER, result>
+<DELIMITER, ;>
+<DELIMITER, }>
+<KEYWORD, int>
+<IDENTIFIER, main>
+<DELIMITER, (>
+<DELIMITER, )>
+<DELIMITER, {>
+<KEYWORD, int>
+<IDENTIFIER, x>
+<OPERATOR, =>
+<NUMBER, 5>
+<DELIMITER, ;>
+<IDENTIFIER, printf>
+<DELIMITER, (>
+<STRING_LITERAL, "Result: %d\n">
+<DELIMITER, ,>
+<IDENTIFIER, calculate>
+<DELIMITER, (>
+<IDENTIFIER, x>
+<DELIMITER, ,>
+<NUMBER, 4>
+<DELIMITER, )>
+<DELIMITER, )>
+<DELIMITER, ;>
+<KEYWORD, return>
+<NUMBER, 0>
+<DELIMITER, ;>
+<DELIMITER, }>
+==============================================

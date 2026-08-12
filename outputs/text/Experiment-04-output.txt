@@ -1,0 +1,12 @@
+Enter variable name(s):
+var1
+Valid variable
+
+a123
+Valid variable
+
+123var
+Invalid variable
+
+x
+Valid variable

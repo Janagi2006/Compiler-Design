@@ -1,0 +1,11 @@
+================ CODE OPTIMIZER ================
+Unoptimized Input Code:
+  a=d/1;
+  b=2+4;
+  c=s*2;
+
+Optimized Code:
+  a=d;	// Algebraic Simplification (X*1 or X/1)
+  b=6;	// Constant Folding
+  c=s+s;	// Strength Reduction (X*2 to X+X)
+================================================

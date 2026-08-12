@@ -50,6 +50,9 @@ x
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 Enter variable name(s):
 var1

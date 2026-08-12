@@ -44,6 +44,9 @@ a = b + c * d
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 Enter expression (e.g., a = b + c * d):
 t1 = c * d

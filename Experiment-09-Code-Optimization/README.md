@@ -38,6 +38,9 @@ c=s*2;
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 ================ CODE OPTIMIZER ================
 Unoptimized Input Code:

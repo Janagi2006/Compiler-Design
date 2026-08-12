@@ -51,6 +51,9 @@ int main() {
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 --- LEXICAL ANALYSIS OUTPUT ---
 [KEYWORD]     : int

@@ -57,6 +57,9 @@ int main() {
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 ========== LEXICAL ANALYZER TOKENS ==========
 <HEADER_FILE, #include <stdio.h>>

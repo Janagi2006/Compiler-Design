@@ -51,6 +51,9 @@ a+*b
 ```
 
 ## Sample Output
+
+![Output Screenshot](output.png)
+
 ```text
 Enter Arithmetic Expression(s):
 a+b*c-d/e
