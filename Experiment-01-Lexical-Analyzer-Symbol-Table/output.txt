@@ -1,0 +1,44 @@
+--- LEXICAL ANALYSIS OUTPUT ---
+[KEYWORD]     : int
+[IDENTIFIER]  : main
+[DELIMITER]   : (
+[DELIMITER]   : )
+[DELIMITER]   : {
+[KEYWORD]     : int
+[IDENTIFIER]  : count
+[OPERATOR]    : =
+[CONSTANT]    : 10
+[DELIMITER]   : ;
+[KEYWORD]     : float
+[IDENTIFIER]  : total
+[OPERATOR]    : =
+[CONSTANT]    : 50.5
+[DELIMITER]   : ;
+[COMMENT]     : /* Calculate sum */
+[COMMENT]     : // Simple loop
+[KEYWORD]     : if
+[DELIMITER]   : (
+[IDENTIFIER]  : count
+[OPERATOR]    : >
+[CONSTANT]    : 0
+[DELIMITER]   : )
+[DELIMITER]   : {
+[IDENTIFIER]  : total
+[OPERATOR]    : =
+[IDENTIFIER]  : total
+[OPERATOR]    : +
+[IDENTIFIER]  : count
+[DELIMITER]   : ;
+[DELIMITER]   : }
+[KEYWORD]     : return
+[CONSTANT]    : 0
+[DELIMITER]   : ;
+[DELIMITER]   : }
+
+================ SYMBOL TABLE ================
+Index Identifier Name      Type            Address   
+----------------------------------------------
+1     main                 identifier      1000      
+2     count                identifier      1004      
+3     total                identifier      1008      
+==============================================

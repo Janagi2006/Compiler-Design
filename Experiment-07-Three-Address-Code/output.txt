@@ -1,0 +1,5 @@
+Enter expression (e.g., a = b + c * d):
+a = b + c * d
+t1 = c * d
+t2 = b + t1
+a = t2
