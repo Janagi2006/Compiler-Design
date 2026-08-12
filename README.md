@@ -59,6 +59,13 @@ All programs are implemented using **C**, **LEX / FLEX** (Lexical Analyzer Gener
 
 ---
 
+## All Verified Outputs (Combined Preview)
+
+![All Lab Outputs Combined](outputs/merged_outputs.png)
+
+---
+
+
 ## How to Run the Experiments
 
 ### 1. Running LEX-only Programs (Exp 01, 02)
